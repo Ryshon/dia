@@ -9,4 +9,4 @@
    - contact;
 4. Implement landing page - Use BEM and SCSS
     - [DEMO LINK](https://ryshon.github.io/dia/)
-5. Figma - https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))?type=design&node-id=9138-35&mode=design
+5. [Figma](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))?type=design&node-id=9138-35&mode=design)
